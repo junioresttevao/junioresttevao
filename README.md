@@ -8,11 +8,13 @@
   
 
 
-![Júnior GitHub stats](https://github-readme-stats.vercel.app/api?username=junioresttevao&show_icons=true&theme=dark&count_private=true)
+![Júnior GitHub stats]
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junioresttevao&layout=compact&langs_count=7&theme=black"/>
-
-
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=junioresttevao&show_icons=true&theme=dark&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junioresttevao&layout=compact&langs_count=7&theme=black"/>
+</div>
+                                                                                                                                                  
 ## Tecnologias que uso no meu dia!
 
 <div style="display: inline_block"><br/>
