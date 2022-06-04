@@ -10,13 +10,10 @@
 <a href = "https://wa.me/5583993897209"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/júnior-estevão-b85313224" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-
-
-
-<div>
-  <a href="https://github.com/junioresttevao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=junioresttevao&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junioresttevao&layout=compact&langs_count=7&theme=tokyonight"/>
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
                                                                                                                                                   
 ## Tecnologias que uso no meu dia!
