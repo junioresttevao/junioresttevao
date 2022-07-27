@@ -1,6 +1,6 @@
 
 ## Olá, me chamo Júnior 👋
--> Estudante de Analise e Desenvolvimento de Sistemas 2022.1 🧑‍🎓
+-> Estudante de Analise e Desenvolvimento de Sistemas 2022.2 🧑‍🎓
 -> Tenho 31y 😎
 -> Moro em João Pessoa-PB 🌅
 
