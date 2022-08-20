@@ -36,8 +36,8 @@
   <img align="center" alt="icon-Postgrestsql" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
   <img aling="center" alt="icon-C" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>    
   <img aling="center" alt="icon-Csharp" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>         <img aling="center" alt="icon-Bootstrap" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/>         
-          
-          
+         
+       
 </div>
 
 
