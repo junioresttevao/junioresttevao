@@ -31,10 +31,7 @@
   <img align="center" alt="icon-Angular" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
   <img align="center" alt="icon-Django" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
   <img align="center" alt="icon-Jquery" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>
-  <img align="center" alt="icon-Ruby" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/>
-  <img align="center" alt="icon-Postgrestsql" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-  <img aling="center" alt="icon-C" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>    
-  <img aling="center" alt="icon-Csharp" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>         <img aling="center" alt="icon-Bootstrap" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/>         
+  <img align="center" alt="icon-Postgrestsql" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/         <img aling="center" alt="icon-Bootstrap" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/>         
          
        
 </div>
