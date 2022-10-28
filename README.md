@@ -2,7 +2,8 @@
 
 <div align="center">
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junioresttevao&theme=tokyonight"/> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=junioresttevao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junioresttevao&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=junioresttevao&theme=tokyonight&hide_border=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=junioresttevao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junioresttevao&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=junioresttevao&theme=tokyonight&hide_border=true"/>
 
  ##
 </div>
